@@ -33,11 +33,11 @@
 
 .profileBody {
     display: inline-block;
-    background-color: white;
+    background-color: black;
     margin-top: 6px;
     margin-left: 55px;
     width: 75%;
-    height: 590px;
+    height: 500px;
     margin-bottom: 6px;
   }
 
